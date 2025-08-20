@@ -10,6 +10,7 @@
 
 ---
 
+
 ## **Description**
 These labs simulate real-world attack scenarios using Snort:
 1. Detect and stop a brute-force SSH login attempt.
